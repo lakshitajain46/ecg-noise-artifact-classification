@@ -139,6 +139,12 @@ Please refer to the notebooks for the specific ECG records, noise preparation pr
 - Evaluate performance across different signal-to-noise ratios and noise conditions.
 - Investigate deployment for research-oriented ECG signal quality assessment.
 
+  ## Results and Visualizations
+
+The PDF below contains the Random Forest confusion matrices for the main test set and external validation, using both DWT-based and conventional features.
+
+[**View Random Forest Confusion Matrices (PDF)**](ECG_Random_Forest_Confusion_Matrices.pdf)
+
 ## Disclaimer
 
 This project is intended for educational and research purposes only. It is not a medical device and must not be used as a substitute for professional medical assessment or diagnosis.
@@ -149,3 +155,4 @@ This project is intended for educational and research purposes only. It is not a
 
 - [GitHub](https://github.com/lakshitajain46)
 - [LinkedIn](https://www.linkedin.com/in/lakshita-jain-143076368/)
+

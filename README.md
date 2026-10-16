@@ -1,3 +1,4 @@
+![ECG Noise Artifact Classification Banner](ecg-project-banner.png)
 
 # ECG Noise Artifact Classification Using DWT and Machine Learning
 
